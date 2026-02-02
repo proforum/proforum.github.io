@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://proforum.github.io
+Sitemap: https://proforum.github.io/sitemap.xml

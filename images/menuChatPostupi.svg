@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.51533cm" height="0.56213cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4.404 0.984"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#3175CF}
+    .fil2 {fill:#357EDE}
+    .fil1 {fill:#748AE8}
+    .fil3 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="3.612,0.537 4.404,0 4.404,0.448 3.612,0.984 "/>
+  <polygon class="fil1" points="3.612,0.537 -0,0.537 -0,0.984 3.612,0.984 "/>
+  <polygon class="fil2" points="0.06,0.491 3.681,0.49 3.612,0.537 -0,0.537 "/>
+  <polygon class="fil0" points="4.342,0 3.597,0.491 3.612,0.537 4.404,0 "/>
+  <polygon class="fil3" points="0.993,0.876 0.993,0.801 0.884,0.801 0.884,0.876 0.799,0.876 0.799,0.645 0.884,0.645 0.884,0.729 0.993,0.729 0.993,0.645 1.079,0.645 1.079,0.876 "/>
+  <path id="1" class="fil3" d="M1.324 0.876l-0.012 -0.031 -0.109 0 -0.014 0.031 -0.088 0 0 -0.001 0.111 -0.231 0.089 0 0.111 0.231 0 0.001 -0.089 0zm-0.067 -0.157l-0.028 0.067 0.056 0 -0.028 -0.067z"/>
+  <polygon id="2" class="fil3" points="1.651,0.81 1.699,0.81 1.699,0.645 1.782,0.645 1.782,0.876 1.435,0.876 1.435,0.645 1.518,0.645 1.518,0.81 1.567,0.81 1.567,0.645 1.651,0.645 "/>
+  <path id="3" class="fil3" d="M2.111 0.645l0.085 0 0 0.231 -0.085 0 0 -0.058 -0.153 0c-0.009,0 -0.016,-0.003 -0.021,-0.008 -0.005,-0.006 -0.008,-0.013 -0.008,-0.022l0 -0.142 0.085 0 0 0.112 0.097 0 0 -0.112z"/>
+  <path id="4" class="fil3" d="M2.438 0.876l-0.012 -0.031 -0.109 0 -0.014 0.031 -0.088 0 0 -0.001 0.111 -0.231 0.089 0 0.111 0.231 0 0.001 -0.089 0zm-0.067 -0.157l-0.028 0.067 0.056 0 -0.028 -0.067z"/>
+  <polygon id="5" class="fil3" points="2.715,0.711 2.715,0.876 2.63,0.876 2.63,0.711 2.533,0.711 2.533,0.645 2.813,0.645 2.813,0.711 "/>
+ </g>
+</svg>

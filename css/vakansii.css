@@ -1,0 +1,567 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#wb_ImageVakansiiFonNiz
+{
+   vertical-align: top;
+}
+#ImageVakansiiFonNiz
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#LayerOsnovaVakansii
+{
+   background-color: transparent;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_ImageVakansiiFonVerh
+{
+   vertical-align: top;
+}
+#ImageVakansiiFonVerh
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#LayerVakansiiMenu_0
+{
+   background-color: transparent;
+   background-image: none;
+   border-radius: 0px;
+}
+#LayerVakansiiMenu_1
+{
+   background-color: transparent;
+   background-image: none;
+   border-radius: 0px;
+}
+#LayerVakansiiMenu_2
+{
+   background-color: transparent;
+   background-image: none;
+   border-radius: 0px;
+}
+#LayerVakansiiMenu_3
+{
+   background-color: transparent;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_VakansiiFonSeredina
+{
+   vertical-align: top;
+}
+#VakansiiFonSeredina
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka1Vakansii
+{
+   vertical-align: top;
+}
+#Knopka1Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka2Vakansii
+{
+   vertical-align: top;
+}
+#Knopka2Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka3Vakansii
+{
+   vertical-align: top;
+}
+#Knopka3Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka4Vakansii
+{
+   vertical-align: top;
+}
+#Knopka4Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka5Vakansii
+{
+   vertical-align: top;
+}
+#Knopka5Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka6Vakansii
+{
+   vertical-align: top;
+}
+#Knopka6Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka7Kachkashur
+{
+   vertical-align: top;
+}
+#Knopka7Kachkashur
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka8Kogyl
+{
+   vertical-align: top;
+}
+#Knopka8Kogyl
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka9Vakansii
+{
+   vertical-align: top;
+}
+#Knopka9Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka10Vakansii
+{
+   vertical-align: top;
+}
+#Knopka10Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka11Vakansii
+{
+   vertical-align: top;
+}
+#Knopka11Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka12Parzi
+{
+   vertical-align: top;
+}
+#Knopka12Parzi
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka13Vakansii
+{
+   vertical-align: top;
+}
+#Knopka13Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka14Vakansii
+{
+   vertical-align: top;
+}
+#Knopka14Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka15Vakansii
+{
+   vertical-align: top;
+}
+#Knopka15Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka16Vakansii
+{
+   vertical-align: top;
+}
+#Knopka16Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka17Vakansii
+{
+   vertical-align: top;
+}
+#Knopka17Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka01GR
+{
+   vertical-align: top;
+}
+#Knopka01GR
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka06Vakansii
+{
+   vertical-align: top;
+}
+#Knopka06Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka18Vakansii
+{
+   vertical-align: top;
+}
+#Knopka18Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka19Vakansii
+{
+   vertical-align: top;
+}
+#Knopka19Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Knopka20Vakansii
+{
+   vertical-align: top;
+}
+#Knopka20Vakansii
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_TextAdam 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextAdam div
+{
+   text-align: left;
+}
+#wb_TextGR 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextGR div
+{
+   text-align: left;
+}
+#wb_TextGulekovo 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextGulekovo div
+{
+   text-align: left;
+}
+#wb_TextKachkashur 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextKachkashur div
+{
+   text-align: left;
+}
+#wb_Knopka21Pusoshur
+{
+   vertical-align: top;
+}
+#Knopka21Pusoshur
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_TextKozhyl 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextKozhyl div
+{
+   text-align: left;
+}
+#wb_TextPonino 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextPonino div
+{
+   text-align: left;
+}
+#wb_TextSchudzia 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextSchudzia div
+{
+   text-align: left;
+}
+#wb_TextKuregovo 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextKuregovo div
+{
+   text-align: left;
+}
+#wb_TextShctanigurt 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextShctanigurt div
+{
+   text-align: left;
+}
+#wb_TextUdmKluchi 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextUdmKluchi div
+{
+   text-align: left;
+}
+#wb_TextParzi 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextParzi div
+{
+   text-align: left;
+}
+#wb_TextChura 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextChura div
+{
+   text-align: left;
+}
+#wb_TextPusoshur 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_TextPusoshur div
+{
+   text-align: left;
+}
+#Layer1
+{
+   background-color: #F8F9FA;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer2
+{
+   background-color: #F8F9FA;
+   background-image: none;
+   border-radius: 0px;
+}

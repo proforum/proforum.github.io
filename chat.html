@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Наш чат</title>
+<link href="pf.ico" rel="shortcut icon" type="image/x-icon">
+<link href="Logo.png" rel="apple-touch-icon" sizes="120x120">
+<link href="css/base/jquery-ui.min.css" rel="stylesheet">
+<link href="css/профforum.css" rel="stylesheet">
+<link href="css/chat.css" rel="stylesheet">
+<script src="js/jquery-1.12.4.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script>
+$(document).ready(function()
+{
+   $("#wb_ImageLogo").tooltip(
+   {
+      hide: true,
+      show: true,
+      content: "<span style=\"color:#FF5200;font-family:'MS Shell Dlg';font-size:16px;\"><strong>На главную страницу</strong></span>",
+      items: '#wb_ImageLogo',
+      position: { my: "right-10 center", at: "left center", collision: "flipfit" },
+      classes: { 'ui-tooltip' : 'ToolTip1' }
+   });
+});
+</script>
+<script src="https://vk.com/js/api/openapi.js?168"></script>
+<!-- Yandex.Metrika counter -->
+<script >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(69941761, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/69941761" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</head>
+<body <script src="https://vk.com/js/api/openapi.js?168"></script>
+
+<script>
+  VK.init({apiId: 7736540, onlyWidgets: true});
+</script>
+
+<div id="vk_comments"></div>
+<script>
+VK.Widgets.Comments("vk_comments", {limit: 100, attach: "*"});
+</script>
+<div id="container">
+
+
+</div>
+<div id="LayerDlyaLogo" style="position:absolute;text-align:left;right:336px;top:134px;width:43.5052%;height:55px;z-index:3;">
+<div id="wb_ImageLogo" style="position:absolute;left:34px;top:4px;width:300px;height:48px;z-index:0;">
+<a href="#" onclick="window.location.href='./index.html';return false;"><img src="images/LogoA.webp" id="ImageLogo" alt="" style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select: none; user-select: none;"></a></div>
+</div>
+</body>
+</html>
